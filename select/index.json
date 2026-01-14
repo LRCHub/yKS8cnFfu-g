@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君の隣は空気が美味しい",
+  "base_artist": "MARUMOCHI from HoneyWorks",
+  "createdAt": "2026-01-14T02:41:06.069554Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君の隣は空気が美味しい feat.Kotoha",
+      "artist": "MARUMOCHI from HoneyWorks",
+      "has_synced": false,
+      "path": "select/pl_01_君の隣は空気が美味しい_feat.Kotoha_MARUMOCHI_from_HoneyWorks.txt"
+    }
+  ]
+}
